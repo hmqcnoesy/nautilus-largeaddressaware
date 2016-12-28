@@ -11,7 +11,11 @@ will fail if exe is read-only).
 
 Open cmd as administrator
 
-Run command:  `"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\vcvars32.bat"`
+Run command:  
+
+```
+"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\vcvars32.bat"
+```
 
 Run command: 
 
