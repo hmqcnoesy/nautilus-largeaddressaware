@@ -20,7 +20,7 @@ Run command:
 Run command: 
 
 ```
-"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\editbin.exe" /largeaddressaware E:\app\nautilus\nautilus.exe
+"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\editbin.exe" /largeaddressaware c:\app\nautilus\nautilus.exe
 ```
 
 (optional) Verify using `dumpbin.exe /headers` that the new nautilus.exe shows “Application can handle large (>2GB) addresses” 
